@@ -27,4 +27,4 @@ Possible commands:
 
 6) "caiw" will call ai to play for white.
 
-7) "caib" will call ai to play for black
+7) "caib" will call ai to play for black.
